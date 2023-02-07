@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "- deadline: 15 of Feburary\n\n- important!!",
+      "complete": true
+    },
+    {
+      "title": "Update the Promo Links",
+      "details": "Make sure all the promo links and coupon codes are up to date!!!!!",
+      "complete": true,
+      "id": 5231
+    },
+    {
+      "title": "Attesting the employee's hours",
+      "details": "Need to be done as soon as possible",
+      "complete": false,
+      "id": 2187
+    },
+    {
+      "title": "BOOK AN INTERVIEW EXAM ",
+      "details": "DONE BY WEEK 8",
+      "complete": false,
+      "id": 3264
+    }
+  ]
+}
